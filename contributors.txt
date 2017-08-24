@@ -91,4 +91,11 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
  Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)		 +(83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)		 +(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)
 (85) Fagbemi Oluwaseun, xeunskate, xeunskate
 (86) Agbor Ebam John, @jeshurun, ebam1
+<<<<<<< HEAD
+<<<<<<< HEAD
 (87) Daniel Enoch Ojonimi (slack:@oj_blaze,github:@Eblazecode)
+=======
+(87) Isaac Etukudo, topic, isaacetukudo
+>>>>>>> 8adf54d3e722cbec92ae38db6a49dea7440d7263
+=======
+>>>>>>> parent of bfd394a... An amazing adventure to become the dream
