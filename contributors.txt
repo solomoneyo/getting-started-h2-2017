@@ -12,7 +12,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
 (13) John Otu
-
 (14) Alaba Mustapha
 (15) Adeshina Ibrahim
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
@@ -85,11 +84,10 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (80) Mercy Michael Ikpe (Github: mercyikpe, Slack: mercy ikpe)
 (81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
 (82) Ashefor Michael (slack: @michael, github: ashefor)
-(81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
 (83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)
-(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)
- Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)		 +(83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)		 +(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)
+(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)		 		 
 (85) Fagbemi Oluwaseun, xeunskate, xeunskate
 (86) Agbor Ebam John, @jeshurun, ebam1
 (87) Isaac Etukudo, topic, isaacetukudo
 (88) Udofia Enwongo (slack:@enwong_o, github:enwong01)
+(89)Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)
