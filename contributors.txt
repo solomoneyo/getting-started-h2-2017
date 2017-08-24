@@ -99,3 +99,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
 >>>>>>> 74157d5f843948d1cbdefd44b0b3d01bfe265629
 (83) Oluwaseun Fagbemi, Slack: xeunskate, Github: xeunskate
+(84) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)
