@@ -100,10 +100,8 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 >>>>>>> 74157d5f843948d1cbdefd44b0b3d01bfe265629
 <<<<<<< HEAD
 <<<<<<< HEAD
-(83) Oluwaseun Fagbemi, Slack: xeunskate, Github: xeunskate
+(83) Oluwaseun Fagbemi, xeunskate, xeunskate
 (84) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)
 =======
 >>>>>>> 2cad2079f2aae66385810cf4c7f752715aa0bf3f
-=======
-Oluwaseun Fagbemi, xeunskate, xeunskate
->>>>>>> 121e6f8d743d8ea6339ce1c7a3d91b6269ccddd5
+
