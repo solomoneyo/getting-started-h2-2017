@@ -92,3 +92,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (85) Fagbemi Oluwaseun, xeunskate, xeunskate
 (86) Agbor Ebam John, @jeshurun, ebam1
 (87) Isaac Etukudo, topic, isaacetukudo
+(88) Udofia Enwongo (slack:@enwong_o, github:enwong01)
