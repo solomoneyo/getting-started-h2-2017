@@ -98,5 +98,8 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 =======
 (81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
 >>>>>>> 74157d5f843948d1cbdefd44b0b3d01bfe265629
+<<<<<<< HEAD
 (83) Oluwaseun Fagbemi, Slack: xeunskate, Github: xeunskate
 (84) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)
+=======
+>>>>>>> 2cad2079f2aae66385810cf4c7f752715aa0bf3f
