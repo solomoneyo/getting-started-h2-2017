@@ -94,6 +94,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 (87) Daniel Enoch Ojonimi (slack:@oj_blaze,github:@Eblazecode)
 =======
 (87) Isaac Etukudo, topic, isaacetukudo
@@ -102,3 +103,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 >>>>>>> parent of bfd394a... An amazing adventure to become the dream
 =======
 >>>>>>> parent of bfd394a... An amazing adventure to become the dream
+=======
+(87) Daniel Enoch Ojonimi (slack:@oj_blaze,github:@Eblazecode)
+>>>>>>> parent of c000a02... just added my name to the list
