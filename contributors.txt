@@ -1,4 +1,4 @@
-(1) Nwanze Franklin, franko4don, @franko4don
+﻿(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday (github: thenameisdrey) (slack: thedrey)
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene
@@ -209,3 +209,4 @@
 (203) Silas Silas (Slack:@silassilas github:@silassilasm)
 ( 204) Oluwatosin Akande, (slack : tosinakande, github : tosinakande) 
 (205) Olorunfemi Ojo, (slack : mrfojo, github : mrfojo) 
+(206) Olayinka Shittu, (slack: yincar, github: yinkadeveloper)
