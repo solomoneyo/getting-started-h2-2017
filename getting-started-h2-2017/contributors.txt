@@ -48,7 +48,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (47) Rex Orioko (Slack: @rexorioko, Github: @KingJavaJava)
 (48) Okoh Ify   (slack: @ify, github: @Ifyokoh)
 (49) Rachael Iwelunmor (github: rachaeliwelunmor) (slack: rachael_iwelunmor)
-<<<<<<< HEAD
 (50) Ememobong Okpon git:@EmemTony slack:@ememtony
 (51) Okafor ECHE (Slack: bluecard1992, Github: alactic)
 (52) Nwonah Vincent (Slack: vnwonah, Github: vnwonah)
@@ -70,7 +69,19 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (68) Nwose Lotanna Victor (slack: @viclotana, github:viclotana)
 (69) Isaac Abasifreke Elijah (slack: @izikelijah, github: ElijahAIsaac)
 (70) Chidi Oguamanam (slack: @elcidchidi , github: @elcidchidi)
->>>>>>> d0d2ed35f19a359c46a1b2eae4dae28b81e3df26
 (71) Sanni Sheriff, SheriffSanni, sheriff
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
+<<<<<<< HEAD
 (73)  Olayinka Shittu, (slack: yincar, github: yinkadeveloper)
+=======
+(73) Joda Opemipo, opsijay, Zaida-3dO
+<<<<<<< HEAD
+<<<<<<< HEAD
+(74) Ashefor Michael (slack: @michael, github: ashefor)
+=======
+(74) Francis Jude, {slack: 'jhude16', github: 'jhude16'}
+>>>>>>> 74157d5f843948d1cbdefd44b0b3d01bfe265629
+=======
+(74) Francis Jude, {slack: 'jhude16', github: 'jhude16'}
+>>>>>>> 74157d5f843948d1cbdefd44b0b3d01bfe265629
+>>>>>>> b8f472397956e9df1f6127b69df0707bd150e6e0
