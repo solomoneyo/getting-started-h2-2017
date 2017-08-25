@@ -218,6 +218,8 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 ( 204) Oluwatosin Akande, (slack : tosinakande, github : tosinakande) 
 (205) Olorunfemi Ojo, (slack : mrfojo, github : mrfojo) 
 (206) Olayinka Shittu, (slack: yincar, github: yinkkadeveloper)
+(207) Shemang David Joshua (Slack: @shemzz, github: Shemzz)
+
 =======
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
@@ -321,4 +323,3 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 >>>>>>> df4157ce12c6313b98d1a5b1ac16bf7055b86cfe
 (93) Daniel Enoch Ojonimi (Slack: @oj_blaze, github: Eblazecode)
 >>>>>>> 29f6664a32618530ffce73abe3bd37a91c9247e7
-(94) Shemang David Joshua (Slack: @shemzz, github: Shemzz)
