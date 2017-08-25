@@ -91,3 +91,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (87) Isaac Etukudo, topic, isaacetukudo
 (88) Udofia Enwongo (slack:@enwong_o, github:enwong01)
 (89)Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)
+(90) Ilozulu Chuka Victor, (slack: @victorilozulu) (github: veekthor)
