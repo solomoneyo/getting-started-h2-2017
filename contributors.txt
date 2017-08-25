@@ -91,4 +91,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
  Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)		 +(83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)		 +(84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)
 (85) Fagbemi Oluwaseun, xeunskate, xeunskate
 (86) Agbor Ebam John, @jeshurun, ebam1
-(87) Ademola adebanji, @detech,ademolaadebanji) 
+(87) Ademola adebanji, (slack: @detech, github:ademolaadebanji) 
