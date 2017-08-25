@@ -72,4 +72,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (71) Sanni Sheriff, SheriffSanni, sheriff
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
 (73) Olayinka Shittu, (slack: yincar, github: yinkadeveloper)
+(74) Akinrujomu Oluwatobiloba, (slack: @tobiak2011, github: AkinrujomuOluwatobi
 
