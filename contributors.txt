@@ -217,7 +217,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (203) Silas Silas (Slack:@silassilas github:@silassilasm)
 ( 204) Oluwatosin Akande, (slack : tosinakande, github : tosinakande) 
 (205) Olorunfemi Ojo, (slack : mrfojo, github : mrfojo) 
-
+(206) Olayinka Shittu, (slack: yincar, github: yinkkadeveloper)
 =======
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
