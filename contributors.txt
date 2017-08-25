@@ -324,3 +324,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (93) Daniel Enoch Ojonimi (Slack: @oj_blaze, github: Eblazecode)
 >>>>>>> 29f6664a32618530ffce73abe3bd37a91c9247e7
 (94) Ogunsina Champion, slack: champion, github: ayofimihan
+Adebola Shalom, Slack:Shalombrain, Github: Shalombrain
