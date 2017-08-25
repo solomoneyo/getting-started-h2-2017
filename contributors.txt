@@ -1,11 +1,9 @@
-﻿<<<<<<< HEAD
+﻿
 ﻿(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday (github: thenameisdrey) (slack: thedrey)
-=======
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
->>>>>>> b8f472397956e9df1f6127b69df0707bd150e6e0
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene
 (5) Joe-smith Essang
@@ -13,7 +11,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (7) Sam Esidem
 (8) Toluwalope Yussuff, tody, to-dy
 (9) Damilola Shofoluwe (github: ddamox) (slack: dspencer)
-<<<<<<< HEAD
 (10) Emmanuel Promise Ozibo
 (11) John Otu, johnotu, johnotu
 (12) Alaba Mustapha (github: alabamustapha, slack: alabamustapha)
@@ -79,9 +76,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (72) Ikhuohon-Eboreime Caleb , GitHub:calebikhuohon , slack:@calebikhuohon
 (73) Adigun Hammed Olalekan, Github:adigunhammedolalekan, slack:@adigunhammedolalekan
 (73) Olayinka Shittu, (slack: yincar, github: yinkadeveloper)
-<<<<<<< HEAD
 (74) Mfonobong Umondia David, (Github: MfonobongD) (Slack: @mfonobong)
-=======
 (74) Adekanmbi Yosola, mo.yosiwealth, Yosiwealth
 (75) Eniwoke Cornelius (Slack: eniwokep, Github: cornzyblack)
 (76) Somto Promise (Slack: @keswardpromise Github:Promxyl)
@@ -204,12 +199,9 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (194) Joseph Okoedo, (slack: xy-joe, github: Xy-joe)
 (195) lanre yusuf, (slack: lanrewells, github: yusuflanre)
 (196) Olayiwola Emmanuel, (slack: emma, github: olaasz)
-<<<<<<< HEAD
 (197) Oluwawemimo Ogunmola, (slack: wemsyz, github: wemsyz)
-=======
 (197) Udeagha Kingsley Onyekachi, (slack: udeaghakingsley, github: udeaghakingsley)
 (198) Fatunmbi Daniel {"slack":"@danolez1fatuns","github":"@danolez1"}
->>>>>>> cf8c4246464a4c2d08dfea6e3ca85ba4a5e95614
 (199) Temitope Dada, (slack: jotdada, github: iYoung90)
 (200)  Alo Oladele (slack: Alo, github : horlhardheiley
 (201) Raymond Blessed (slack: officialanoti, github: officialanoti)
@@ -219,8 +211,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (205) Olorunfemi Ojo, (slack : mrfojo, github : mrfojo) 
 (206) Olayinka Shittu, (slack: yincar, github: yinkkadeveloper)
 (207) Shemang David Joshua (Slack: @shemzz, github: Shemzz)
-
-=======
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
@@ -234,7 +224,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
 (21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
-
 (23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
 (24) Daniella Mato, @daniella, dmpire
 (25) Enyi-Christopher Joshua, christofajosh, christofajosh
@@ -301,27 +290,15 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (84) Unyime Paul (slack: @unyimepaul, github: @unyimepaul)		 		 
 (85) Fagbemi Oluwaseun, xeunskate, xeunskate
 (86) Agbor Ebam John, @jeshurun, ebam1
-<<<<<<< HEAD
 (87) Daniel Enoch Ojonimi(slack :@oj_blaze, github: Eblazecode)
-=======
 (87) Isaac Etukudo, topic, isaacetukudo
 (88) Udofia Enwongo (slack:@enwong_o, github:enwong01)
-<<<<<<< HEAD
->>>>>>> b8f472397956e9df1f6127b69df0707bd150e6e0
-=======
 (89)Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 59fb28c5c332e35380b67268ea5d449453933055
-=======
 (90) Ilozulu Chuka Victor, (slack: @victorilozulu) (github: veekthor)
 (91) Ezeh Livinus, ezehlivinus, ezehlivinus
->>>>>>> df4157ce12c6313b98d1a5b1ac16bf7055b86cfe
-=======
 (90) Ilozulu Chuka Victor, (slack: @victorilozulu) (github: veekthor)
 (91) Ezeh Livinus, ezehlivinus, ezehlivinus
->>>>>>> df4157ce12c6313b98d1a5b1ac16bf7055b86cfe
 (93) Daniel Enoch Ojonimi (Slack: @oj_blaze, github: Eblazecode)
->>>>>>> 29f6664a32618530ffce73abe3bd37a91c9247e7
 (94) Ogunsina Champion, slack: champion, github: ayofimihan
 Adebola Shalom, Slack:Shalombrain, Github: Shalombrain
+(95) Chidozie Akakuru (slack: doziex; github: zeusdaman)
