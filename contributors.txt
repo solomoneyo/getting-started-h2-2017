@@ -1,4 +1,4 @@
-﻿
+﻿Ndifreke Utin (Github: Endytekglobal1), Slack: @endytekglobal1
 ﻿(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday (github: thenameisdrey) (slack: thedrey)
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
