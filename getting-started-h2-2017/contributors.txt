@@ -74,4 +74,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (73) Olayinka Shittu, (slack: yincar, github: yinkadeveloper)
 (74) Akinrujomu Oluwatobiloba, (slack: @tobiak2011, github: AkinrujomuOluwatobi
 (75) Olayiwola Emmanuel, (slack: @emma, github: olaasz
+(76) name = "Njoku" github = "@sage-godspeed" slack = "@godspeed"
 
