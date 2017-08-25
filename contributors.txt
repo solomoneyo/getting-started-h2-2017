@@ -302,3 +302,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (94) Ogunsina Champion, slack: champion, github: ayofimihan
 Adebola Shalom, Slack:Shalombrain, Github: Shalombrain
 (95) Chidozie Akakuru (slack: doziex; github: zeusdaman)
+(96) Akinbade Adekunle Akinbade (slack: markfisher; github:markfisher1)
