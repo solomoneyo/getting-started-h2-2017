@@ -95,7 +95,12 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (88) Udofia Enwongo (slack:@enwong_o, github:enwong01)
 (89)Akinokun Elizabeth (slack: @akinokunlisa, github: @akinokunlisa)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 59fb28c5c332e35380b67268ea5d449453933055
+=======
+(90) Ilozulu Chuka Victor, (slack: @victorilozulu) (github: veekthor)
+(91) Ezeh Livinus, ezehlivinus, ezehlivinus
+>>>>>>> df4157ce12c6313b98d1a5b1ac16bf7055b86cfe
 =======
 (90) Ilozulu Chuka Victor, (slack: @victorilozulu) (github: veekthor)
 (91) Ezeh Livinus, ezehlivinus, ezehlivinus
