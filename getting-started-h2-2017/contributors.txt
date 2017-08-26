@@ -71,4 +71,8 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (70) Chidi Oguamanam (slack: @elcidchidi , github: @elcidchidi)
 (71) Sanni Sheriff, SheriffSanni, sheriff
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
-(73) Joda Opemipo, opsijay, Zaida-3dO
+(73) Olayinka Shittu, (slack: yincar, github: yinkadeveloper)
+(74) Akinrujomu Oluwatobiloba, (slack: @tobiak2011, github: AkinrujomuOluwatobi
+(75) Olayiwola Emmanuel, (slack: @emma, github: olaasz
+(76) name = "Njoku" github = "@sage-godspeed" slack = "@godspeed"
+(77) Udoh Uwem Alozie, (slack: @owenatus, github: @owenatus)
