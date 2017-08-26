@@ -213,6 +213,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (206) Olayinka Shittu, (slack: yincar, github: yinkkadeveloper)
 (207) Shemang David Joshua (Slack: @shemzz, github: Shemzz)
 (208) Opara prosper ( slack: @opara_prosper, github: opara-prosper)
+(209) Ahmed Olarewaju Adisa, (Slack: @amco, github: adisaahmed) 
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
