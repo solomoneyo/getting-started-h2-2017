@@ -328,4 +328,8 @@ Danie Ukwu, (slack: @chistel, github: @chistel)
 (112) Ejalonibu Damilola(slack: @ejalonibudamilola96, github: ejalonibudamilola)
 (113) Daniel Folashade(slack: @beccadaniels, github: beccadaniel)
 (114) Chide Adejo, samara, samaara
+<<<<<<< HEAD
 (115) Omobolaji Adediran, omobolajimary,omobolajimary
+=======
+(115) Akpan Mmenyene Ekop (slack: @gift4jah115, github:mmenyene)
+>>>>>>> 3d798d932a47b053cf075f5a696852ef030d3c8f
