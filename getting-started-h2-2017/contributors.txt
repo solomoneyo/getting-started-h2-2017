@@ -76,3 +76,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (75) Olayiwola Emmanuel, (slack: @emma, github: olaasz
 (76) name = "Njoku" github = "@sage-godspeed" slack = "@godspeed"
 (77) Udoh Uwem Alozie, (slack: @owenatus, github: @owenatus)
+(78) Joda Opemipo, opsijay, Zaida-3dO
